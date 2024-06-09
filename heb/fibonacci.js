@@ -43,7 +43,6 @@
 
 // 2. Changing our boilerplate:
 
-
 process.stdin.resume();
 process.stdin.setEncoding('utf8');
 
